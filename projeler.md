@@ -1,11 +1,7 @@
 ---
 layout: page
-title: Projeler ve Alıştırmalar
+title: Projeler
 ---
-{% for post in site.categories.Projeler %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-
 
 {% assign posts = paginator.posts | default: site.categories.Projeler %}
 
