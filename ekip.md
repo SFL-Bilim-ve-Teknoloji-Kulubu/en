@@ -1,7 +1,6 @@
 ---
 title: Ekip
 subtitle: The humans behind this project
-layout: page
 executive-board:
   - name: Finlay Campbell
     img: /img/people/finlay-campbell.jpg

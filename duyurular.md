@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projeler ve Çalışmalar
+title: Duyurular
 ---
 
 {% assign posts = paginator.posts | default: site.categories.Duyurular %}
