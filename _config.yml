@@ -14,7 +14,12 @@ title: SFL Bilim ve Teknoloji Kulübü
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Projeler: "projeler"
+  Hakkında: "hakkinda"
+  Ekip: "ekip"
+  Projeler ve Çalışmalar: "projeler"
+  Duyurular: "duyurular"
+  Haberler: "haberler"
+  İletişim: "iletisim"
 
 
 # --- Logo --- #
