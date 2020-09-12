@@ -8,8 +8,6 @@
 # Name of website
 title: SFL Bilim ve Teknoloji Kulübü
 lang: tr 
-languages: ["tr", "en"] 
-
 # Your name to show in the footer
 #author: Some Person
 
@@ -17,12 +15,12 @@ languages: ["tr", "en"]
 
 navbar-links:
   Hakkında: "hakkinda"
-  Ekip: "ekip"
+  EKİP: "ekip"
   Projeler ve Çalışmalar: "projeler"
   Duyurular: "duyurular"
   Haberler: "haberler"
-  Takvim: "takvim"
-  İletişim: "iletisim"
+  TAKVİM: "takvim"
+  İLETİŞİM: "iletisim"
 
 
 # --- Logo --- #
