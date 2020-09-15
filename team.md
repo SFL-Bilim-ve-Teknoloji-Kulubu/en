@@ -1,4 +1,4 @@
 ---
-title: Ekip
+title: Our Team
 layout: page
 ---

@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Hakkında
+title: About
 ---

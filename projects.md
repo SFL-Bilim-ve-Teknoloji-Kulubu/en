@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Haberler
+title: Projects and Studies
 ---
 
-{% assign posts = paginator.posts | default: site.categories.Haberler %}
+{% assign posts = paginator.posts | default: site.categories.Projects %}
 
 <div class="posts-list">
-  {% for post in site.categories.Haberler %}
+  {% for post in site.categories.Projects %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}

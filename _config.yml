@@ -6,21 +6,21 @@
 # --- Required options --- #
 
 # Name of website
-title: SFL Bilim ve Teknoloji Kulübü
-lang: tr 
+title: SFL Science and Technology Club
+lang: en 
 # Your name to show in the footer
 #author: Some Person
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Hakkında: "hakkinda"
-  EKİP: "ekip"
-  Projeler ve Çalışmalar: "projeler"
-  Duyurular: "duyurular"
-  Haberler: "haberler"
-  TAKVİM: "takvim"
-  İLETİŞİM: "iletisim"
+  About: "about"
+  Our Team: "team"
+  Projects and Studies: "projects"
+  Duyurular: "announcements"
+  News: "news"
+  Calendar: "calendar"
+  Contact: "contact"
 
 
 # --- Logo --- #
