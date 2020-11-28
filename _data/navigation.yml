@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "About"
+    url: about
+
+  - title: "Projects and Studies"
+    url: projects
+
+  - title: "Announcements"
+    url: announcements
+
+  - title: "News"
+    url: news
+
+  - title: "Contact"
+    url: contact
