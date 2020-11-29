@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "SFL Science and Technology Club"
 description              : "SFL Science and Technology Club Website"
 url                      : 
-baseurl                  : "# the subpath of your site, e.g. "/blog""
+baseurl                  : "/en"
 repository               : "en/sfl-bilim-ve-teknoloji-kulubu.github.io"
 teaser                   : "/assets/img/logo.png"
 logo                     : "/assets/img/logo.png"
